@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a57fde8_ef168154",
+        "filename": "gproj.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2015-06-11T08:39:26Z",
+      "side": 1,
+      "message": "This can be removed too. Its already copied here:\n\nhttps://github.com/CyanogenMod/android_vendor_cm/blob/cm-12.1/config/common.mk#L167",
+      "revId": "c933b1f46eea2bc3241f168e944592c0d383a59b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
